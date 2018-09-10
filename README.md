@@ -10,4 +10,10 @@ Source codes for simulation of flux control coefficients and thermodynamic varia
 - **Branch Point_2 Downstream**: Metabolic network with a branch point consisting of two downstream fluxes and one upstream flux.
 - **Branch Point_2 Upstream**: Metabolic network with a branch point consisting of two upstream fluxes and one downstream flux.
 
+**Michaelis-Menten**: Metabolic networks with Michaelis-Menten kinetics
+- **Branch Point_2 Downstream**: Metabolic network with a branch point consisting of two downstream fluxes and one upstream flux.
+- **Branch Point_2 Upstream**: Metabolic network with a branch point consisting of two upstream fluxes and one downstream flux.
+
+**Glycolysis**: A mathematical model of glycolysis. C++ codes were generated using SBML translator in the Systems Biology Workbench (http://sbw.sourceforge.net/) and compiled using g++.
+
 **dscatter.m**: MATLAB codes for generating density scatter plots. This function is used in visualizing the results of simulation.
